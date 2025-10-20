@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Owner Credits
 
-**Thamindu-Dev**
+- Owner: **Thamindu-Dev**
 - GitHub: [@Thamindu-Dev](https://github.com/Thamindu-Dev)
 - Repository: [WinClean](https://github.com/Thamindu-Dev/WinClean)
 
