@@ -110,10 +110,6 @@ If you encounter any issues or have questions:
 - Check the troubleshooting section above
 - Review existing issues for similar problems
 
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with core cleanup features
-
 ---
 
 **Note**: This script is provided as-is. Always review scripts before running them with administrator privileges. Regular use can help maintain system performance, but always ensure you have backups of important data.
